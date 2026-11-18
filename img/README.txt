@@ -1,0 +1,1 @@
+Mockup görsellerini buraya koy, config.js içinden yollarını yaz.
